@@ -1,7 +1,7 @@
 ## Eai!? Tranquilo? Aqui é o Igor Vinicius, mas só Igor está bom! 
 
-- 🔭 Hoje atuo como fullstack
-- 🌱 Estudando React Native, React, Node e arquitetura de software.
+- 🔭 Hoje atuo como Back-End Engineer Pleno
+- 🌱 Estudando Node, typescript e arquitetura de software.
 - 😄 Pronomes: Ele/Dele
 
  <div>
